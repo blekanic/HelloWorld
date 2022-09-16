@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Welcome to KONF 2022!");
         System.out.println("Zeile 3");
         System.out.println("Zeile 4"); // CMD+D für Zeilenduplikation
+        System.out.println("Zeile 5");
     }
 
 }
